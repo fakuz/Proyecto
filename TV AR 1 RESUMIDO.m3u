@@ -1,102 +1,152 @@
 #EXTM3U
+
 #EXTINF:0 type="favorites" channelId="-1" group="CD Cd Aut Bs As" logo="https://radiosargentina.com.ar/png/VILRL318.png", LRL318 Latina - 101.1 TV - CABA FM - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0017
+
 #EXTINF:0 type="favorites" channelId="-1" group="CD Cd Aut Bs As" logo="https://radiosargentina.com.ar/png/VI-ARGTV.png", Argentinisima - CTV - CABA TV Cable - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0023
+
 #EXTINF:0 type="favorites" channelId="-1" group="CD Cd Aut Bs As" logo="https://radiosargentina.com.ar/png/VI----DW.png", DW Espa�ol - CTV - CABA TV Cable - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0032
+
 #EXTINF:0 type="favorites" channelId="-1" group="CD Cd Aut Bs As" logo="https://radiosargentina.com.ar/png/VI-ESTRE.png", Estrella Games - CTV - CABA TV Cable - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0033
+
 #EXTINF:0 type="favorites" channelId="-1" group="CD Cd Aut Bs As" logo="https://radiosargentina.com.ar/png/VI-ESTRE.png", Estrella News - CTV - CABA TV Cable - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0034
+
 #EXTINF:0 type="favorites" channelId="-1" group="CD Cd Aut Bs As" logo="https://radiosargentina.com.ar/png/VI-ESTRE.png", Estrella TV - CTV - CABA TV Cable - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0035
+
 #EXTINF:0 type="favorites" channelId="-1" group="CD Cd Aut Bs As" logo="https://radiosargentina.com.ar/png/VI---FTV.png", Fashion TV - CTV - CABA TV Cable - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0037
+
 #EXTINF:0 type="favorites" channelId="-1" group="CD Cd Aut Bs As" logo="https://radiosargentina.com.ar/png/VI--FOXN.png", FOX News - CTV - CABA TV Cable - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0038
+
 #EXTINF:0 type="favorites" channelId="-1" group="CD Cd Aut Bs As" logo="https://radiosargentina.com.ar/png/VIGALICI.png", Galicia TV - CTV - CABA TV Cable - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0041
+
 #EXTINF:0 type="favorites" channelId="-1" group="CD Cd Aut Bs As" logo="https://radiosargentina.com.ar/png/VIGARAGE.png", Garage TV - CTV - CABA TV Cable - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0042
+
 #EXTINF:0 type="favorites" channelId="-1" group="CD Cd Aut Bs As" logo="https://radiosargentina.com.ar/png/VIMUSTOP.png", Musictop - CTV - CABA TV Cable - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0046
+
 #EXTINF:0 type="favorites" channelId="-1" group="CD Cd Aut Bs As" logo="https://radiosargentina.com.ar/png/VI---NHK.png", NHK World - CTV - CABA TV Cable - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0047
+
 #EXTINF:0 type="favorites" channelId="-1" group="CD Cd Aut Bs As" logo="https://radiosargentina.com.ar/png/VI---RAI.png", Rai 3 - CTV - CABA TV Cable - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0049
+
 #EXTINF:0 type="favorites" channelId="-1" group="CD Cd Aut Bs As" logo="https://radiosargentina.com.ar/png/VI---RAI.png", Rai News24 - CTV - CABA TV Cable - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0050
+
 #EXTINF:0 type="favorites" channelId="-1" group="CD Cd Aut Bs As" logo="https://radiosargentina.com.ar/png/VITELEMU.png", Telemundo California - CTV - CABA TV Cable - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0051
+
 #EXTINF:0 type="favorites" channelId="-1" group="CD Cd Aut Bs As" logo="https://radiosargentina.com.ar/png/VITELEMU.png", Telemundo Florida - CTV - CABA TV Cable - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0052
+
 #EXTINF:0 type="favorites" channelId="-1" group="CD Cd Aut Bs As" logo="https://radiosargentina.com.ar/png/VITELEMU.png", Telemundo New York - CTV - CABA TV Cable - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0053
+
 #EXTINF:0 type="favorites" channelId="-1" group="CD Cd Aut Bs As" logo="https://radiosargentina.com.ar/png/VITELEMU.png", Telemundo Texas - CTV - CABA TV Cable - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0054
+
 #EXTINF:0 type="favorites" channelId="-1" group="CD Cd Aut Bs As" logo="https://radiosargentina.com.ar/png/VITIEMIA.png", TierraMia - CTV - CABA TV Cable - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0056
+
 #EXTINF:0 type="favorites" channelId="-1" group="CD Cd Aut Bs As" logo="https://radiosargentina.com.ar/png/VI----WN.png", WeatherNation - CTV - CABA TV Cable - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0061
+
 #EXTINF:0 type="favorites" channelId="-1" group="CD Cd Aut Bs As" logo="https://radiosargentina.com.ar/png/VI-GENTV.png", GenTV - 17.3TV - CABA TV TDA - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0062
+
 #EXTINF:0 type="favorites" channelId="-1" group="CD Cd Aut Bs As" logo="https://radiosargentina.com.ar/png/VI-CARAS.png", Caras TV - 21.1TV - CABA TV TDA - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0063
+
 #EXTINF:0 type="favorites" channelId="-1" group="CD Cd Aut Bs As" logo="https://radiosargentina.com.ar/png/VILRL456.png", LRL456 Orbe 21 - 21.2TV - CABA TV TDA - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0064
+
 #EXTINF:0 type="favorites" channelId="-1" group="CD Cd Aut Bs As" logo="https://radiosargentina.com.ar/png/VI--26TV.png", Canal 26 - 26.1TV - CABA TV TDA - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0081
+
 #EXTINF:0 type="favorites" channelId="-1" group="CD Cd Aut Bs As" logo="https://radiosargentina.com.ar/png/VI---TLX.png", Telemax - 26.3TV - CABA TV TDA - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0082
+
 #EXTINF:0 type="favorites" channelId="-1" group="CD Cd Aut Bs As" logo="https://radiosargentina.com.ar/png/VI-NETTV.png", NET TV - 27.2TV - CABA TV TDA - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0083
+
 #EXTINF:0 type="favorites" channelId="-1" group="CD Cd Aut Bs As" logo="https://radiosargentina.com.ar/png/VIURTEVE.png", Urbana TeVe - 32.2TV - CABA TV TDA - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0084
+
 #EXTINF:0 type="favorites" channelId="-1" group="CD Cd Aut Bs As" logo="https://radiosargentina.com.ar/png/VI--LS85.png", LS85 El Trece - 33.1TV - CABA TV TDA - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0085
+
 #EXTINF:0 type="favorites" channelId="-1" group="CD Cd Aut Bs As" logo="https://radiosargentina.com.ar/png/VI---C22.png", Canal 22 - WebTV - CABA TV Web - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0097
+
 #EXTINF:0 type="favorites" channelId="-1" group="CD Cd Aut Bs As" logo="https://radiosargentina.com.ar/png/VIALERTN.png", AN24 TV - WebTV - CABA TV Web - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0096
+
 #EXTINF:0 type="favorites" channelId="-1" group="CD Cd Aut Bs As" logo="https://radiosargentina.com.ar/png/VIMAGICK.png", Magic Kids - WebTV - CABA TV Web - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0101
+
 #EXTINF:0 type="favorites" channelId="-1" group="CD Cd Aut Bs As" logo="https://radiosargentina.com.ar/png/VI----PP.png", Perfectos Pekadores - WebTV - CABA TV Web - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0102
+
 #EXTINF:0 type="favorites" channelId="-1" group="CD Cd Aut Bs As" logo="https://radiosargentina.com.ar/png/VIGALACT.png", Radio Galactica - WebTV - CABA TV Web - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0103
+
 #EXTINF:0 type="favorites" channelId="-1" group="CD Cd Aut Bs As" logo="https://radiosargentina.com.ar/png/VIGALACT.png", Radio Galactica - WebTV - CABA TV Web - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0104
+
 #EXTINF:0 type="favorites" channelId="-1" group="GB Gran Bs As" logo="https://radiosargentina.com.ar/png/VISOLITV.png", Solidaria TV - 19.1TV - Caseros - GB Gran Bs As
 https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0106
+
 #EXTINF:0 type="favorites" channelId="-1" group="GB Gran Bs As" logo="https://radiosargentina.com.ar/png/VI-NEOTV.png", NEO TV - 16.1TV - Florencio Varela - GB Gran Bs As
 https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0107
+
 #EXTINF:0 type="favorites" channelId="-1" group="GB Gran Bs As" logo="https://radiosargentina.com.ar/png/VIQUANTV.png", Quantica TV - 16.3TV - Florencio Varela - GB Gran Bs As
 https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0108
+
 #EXTINF:0 type="favorites" channelId="-1" group="GB Gran Bs As" logo="https://radiosargentina.com.ar/png/VIOK1057.png", OK FM - 105.7 TV - Florencio Varela - GB Gran Bs As
 https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0110
+
 #EXTINF:0 type="favorites" channelId="-1" group="GB Gran Bs As" logo="https://radiosargentina.com.ar/png/VISC1120.png", Santiago y Copla - 1130 TV - G de Laferrere - GB Gran Bs As
 https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0113
+
 #EXTINF:0 type="favorites" channelId="-1" group="GB Gran Bs As" logo="https://radiosargentina.com.ar/png/VIFIVETV.png", Five TV - 16.1TV - G de Laferrere - GB Gran Bs As
 https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0111
+
 #EXTINF:0 type="favorites" channelId="-1" group="GB Gran Bs As" logo="https://radiosargentina.com.ar/png/VITELMIX.png", Telemix - 50 TV - Glew - GB Gran Bs As
 https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0114
+
 #EXTINF:0 type="favorites" channelId="-1" group="GB Gran Bs As" logo="https://radiosargentina.com.ar/png/VITELEC5.png", Telecreativa - 5 TV - Lanus - GB Gran Bs As
 https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0115
+
 #EXTINF:0 type="favorites" channelId="-1" group="GB Gran Bs As" logo="https://radiosargentina.com.ar/png/VIRC1470.png", Cadena - 1470 TV - Lanus - GB Gran Bs As
 https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0116
+
 #EXTINF:0 type="favorites" channelId="-1" group="GB Gran Bs As" logo="https://radiosargentina.com.ar/png/VICIUDAM.png", Ciudad - 91.1 TV - Merlo - GB Gran Bs As
 https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0118
+
 #EXTINF:0 type="favorites" channelId="-1" group="GB Gran Bs As" logo="https://radiosargentina.com.ar/png/VIMURKTV.png", MURKTV - 91.5 TV - Quilmes - GB Gran Bs As
 https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0119
+
 #EXTINF:0 type="favorites" channelId="-1" group="GB Gran Bs As" logo="https://radiosargentina.com.ar/png/VILRL714.png", LRL714 Class - 91.9 TV - Saenz Pe�a - GB Gran Bs As
 https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0122
+
 #EXTINF:0 type="favorites" channelId="-1" group="GB Gran Bs As" logo="https://radiosargentina.com.ar/png/VISIONTV.png", SION TV - 20 TV - San Fco Solano - GB Gran Bs As
 https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0123
+
 #EXTINF:0 type="favorites" channelId="-1" group="GB Gran Bs As" logo="https://radiosargentina.com.ar/png/VI--UNLM.png", LRI427 Universidad - 89.1 TV - San Justo - GB Gran Bs As
 https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0124
+
 #EXTINF:0 type="favorites" channelId="-1" group="GB Gran Bs As" logo="https://radiosargentina.com.ar/png/VI----C4.png", C4 Teleaire - 4 TV - San Martin - GB Gran Bs As
 https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0125
+
 #EXTINF:0 type="favorites" channelId="-1" group="GB Gran Bs As" logo="https://radiosargentina.com.ar/png/VI--TV33.png", Television 33 - WebTV - Sarandi - GB Gran Bs As
 https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0128
 #EXTINF:0 type="favorites" channelId="-1" group="GB Gran Bs As" logo="https://radiosargentina.com.ar/png/VI5TIGRE.png", Cinco TV - 30.1TV - Tigre - GB Gran Bs As
