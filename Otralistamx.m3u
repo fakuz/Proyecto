@@ -1,68 +1,183 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="24/7: The Simpsons HD" tvg-logo="http://i64.tinypic.com/2my1ahc.png" group-title="CANALES24HRS",24/7: The Simpsons HD
-http://disfruta.club:8000/infornetsolutions/hAArBoNtwz/836
-#EXTINF:-1 tvg-id="" tvg-name="24/7: Game Of Thrones" tvg-logo="https://i0.wp.com/www.hullpops.co.uk/wp-content/uploads/2017/10/GOT-Logo.png" group-title="CANALES24HRS",24/7: Game Of Thrones
-http://disfruta.club:8000/infornetsolutions/hAArBoNtwz/22144
-#EXTINF:-1 tvg-id="" tvg-name="24/7: Bob Esponja SD" tvg-logo="http://i64.tinypic.com/10h8vvo.gif" group-title="CANALES24HRS",24/7: Bob Esponja SD
-http://disfruta.club:8000/infornetsolutions/hAArBoNtwz/853
-#EXTINF:-1 tvg-id="" tvg-name="24/7: Canal Disney  HD" tvg-logo="http://i63.tinypic.com/2qbsnl4.png" group-title="CANALES24HRS",24/7: Canal Disney  HD
-http://disfruta.club:8000/infornetsolutions/hAArBoNtwz/852
-#EXTINF:-1 tvg-id="" tvg-name="24/7: Dragon Ball HD" tvg-logo="http://i66.tinypic.com/30j4n68.png" group-title="CANALES24HRS",24/7: Dragon Ball HD
-http://disfruta.club:8000/infornetsolutions/hAArBoNtwz/851
-#EXTINF:-1 tvg-id="" tvg-name="24/7: Dragon Ball Z HD" tvg-logo="http://i68.tinypic.com/2mdi69u.png" group-title="CANALES24HRS",24/7: Dragon Ball Z HD
-http://disfruta.club:8000/infornetsolutions/hAArBoNtwz/850
-#EXTINF:-1 tvg-id="" tvg-name="24/7: El Chapulín Colorado SD" tvg-logo="http://i65.tinypic.com/25tda2h.jpg" group-title="CANALES24HRS",24/7: El Chapulín Colorado SD
-http://disfruta.club:8000/infornetsolutions/hAArBoNtwz/849
-#EXTINF:-1 tvg-id="" tvg-name="24/7: El Chavo del Ocho SD" tvg-logo="http://i64.tinypic.com/wk05rk.png" group-title="CANALES24HRS",24/7: El Chavo del Ocho SD
-http://disfruta.club:8000/infornetsolutions/hAArBoNtwz/848
-#EXTINF:-1 tvg-id="" tvg-name="24/7: Futurama HD" tvg-logo="http://i66.tinypic.com/n3aebl.gif" group-title="CANALES24HRS",24/7: Futurama HD
-http://disfruta.club:8000/infornetsolutions/hAArBoNtwz/846
-#EXTINF:-1 tvg-id="" tvg-name="24/7: ALF SD" tvg-logo="" group-title="CANALES24HRS",24/7: ALF SD
-http://disfruta.club:8000/infornetsolutions/hAArBoNtwz/3097
-#EXTINF:-1 tvg-id="" tvg-name="24/7: MacGyver SD" tvg-logo="http://i65.tinypic.com/2898qac.png" group-title="CANALES24HRS",24/7: MacGyver SD
-http://disfruta.club:8000/infornetsolutions/hAArBoNtwz/834
-#EXTINF:-1 tvg-id="" tvg-name="24/7: Malcolm  HD" tvg-logo="http://i68.tinypic.com/2uf7iud.png" group-title="CANALES24HRS",24/7: Malcolm  HD
-http://disfruta.club:8000/infornetsolutions/hAArBoNtwz/844
-#EXTINF:-1 tvg-id="" tvg-name="24/7: Mr. Bean SD" tvg-logo="http://i66.tinypic.com/2n6hdus.png" group-title="CANALES24HRS",24/7: Mr. Bean SD
-http://disfruta.club:8000/infornetsolutions/hAArBoNtwz/843
-#EXTINF:-1 tvg-id="" tvg-name="24/7: Pocoyó SD" tvg-logo="http://i66.tinypic.com/9tn3mx.png" group-title="CANALES24HRS",24/7: Pocoyó SD
-http://disfruta.club:8000/infornetsolutions/hAArBoNtwz/841
-#EXTINF:-1 tvg-id="" tvg-name="24/7: Ranma ½ HD" tvg-logo="http://i67.tinypic.com/2nrd1s0.png" group-title="CANALES24HRS",24/7: Ranma ½ HD
-http://disfruta.club:8000/infornetsolutions/hAArBoNtwz/840
-#EXTINF:-1 tvg-id="" tvg-name="24/7: Scooby-Doo HD" tvg-logo="http://i67.tinypic.com/15p3jp3.png" group-title="CANALES24HRS",24/7: Scooby-Doo HD
-http://disfruta.club:8000/infornetsolutions/hAArBoNtwz/839
-#EXTINF:-1 tvg-id="" tvg-name="24/7: South Park  HD" tvg-logo="http://i66.tinypic.com/2enlpcg.png" group-title="CANALES24HRS",24/7: South Park  HD
-http://disfruta.club:8000/infornetsolutions/hAArBoNtwz/838
-#EXTINF:-1 tvg-id="" tvg-name="24/7: WWE 24/7 HD" tvg-logo="http://i67.tinypic.com/2i6o3nm.png" group-title="CANALES24HRS",24/7: WWE 24/7 HD
-http://disfruta.club:8000/infornetsolutions/hAArBoNtwz/835
-#EXTINF:-1 tvg-id="" tvg-name="24/7: Cantinflas  (SD)" tvg-logo="" group-title="CANALES24HRS",24/7: Cantinflas  (SD)
-http://disfruta.club:8000/infornetsolutions/hAArBoNtwz/3096
-#EXTINF:-1 tvg-id="" tvg-name="24/7: Chespirito SD" tvg-logo="" group-title="CANALES24HRS",24/7: Chespirito SD
-http://disfruta.club:8000/infornetsolutions/hAArBoNtwz/3090
-#EXTINF:-1 tvg-id="" tvg-name="24/7: Coraje El Perro Cobarde SD" tvg-logo="" group-title="CANALES24HRS",24/7: Coraje El Perro Cobarde SD
-http://disfruta.club:8000/infornetsolutions/hAArBoNtwz/3095
-#EXTINF:-1 tvg-id="" tvg-name="24/7: Dragon Ball Super HD" tvg-logo="" group-title="CANALES24HRS",24/7: Dragon Ball Super HD
-http://disfruta.club:8000/infornetsolutions/hAArBoNtwz/3093
-#EXTINF:-1 tvg-id="" tvg-name="24/7: El Coyote y el Correcaminos SD" tvg-logo="" group-title="CANALES24HRS",24/7: El Coyote y el Correcaminos SD
-http://disfruta.club:8000/infornetsolutions/hAArBoNtwz/3094
-#EXTINF:-1 tvg-id="" tvg-name="24/7: El Pajaro Loco SD" tvg-logo="" group-title="CANALES24HRS",24/7: El Pajaro Loco SD
-http://disfruta.club:8000/infornetsolutions/hAArBoNtwz/3092
-#EXTINF:-1 tvg-id="" tvg-name="24/7: El príncipe de Bel-Air SD" tvg-logo="" group-title="CANALES24HRS",24/7: El príncipe de Bel-Air SD
-http://disfruta.club:8000/infornetsolutions/hAArBoNtwz/3091
-D" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/8/84/AMC_HD.png" group-title="FULL-HD-LATINOS",AMC FULL HD
-http://disfruta.club:8000/infornetsolutions/hAArBoNtwz/4152
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet FULL HD" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/5/57/Animal_Planet_US_HD.png" group-title="FULL-HD-LATINOS",Animal Planet FULL HD
-http://disfruta.club:8000/infornetsolutions/hAArBoNtwz/4170
-#EXTINF:-1 tvg-id="" tvg-name="AXN FULL HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b8/AXN_HD.png" group-title="FULL-HD-LATINOS",AXN FULL HD
-http://disfruta.club:8000/infornetsolutions/hAArBoNtwz/4199
-#EXTINF:-1 tvg-id="AZ CINEMA BASE" tvg-name="Az Cinema FULL HD" tvg-logo="http://condista.com/wp-content/uploads/2015/09/az-cinema-680x328.jpg" group-title="FULL-HD-LATINOS",Az Cinema FULL HD
-http://disfruta.club:8000/infornetsolutions/hAArBoNtwz/4151
-#EXTINF:-1 tvg-id="Az Corazón" tvg-name="Az Corazón FULL HD" tvg-logo="http://iptv-television-en-linea.com/resources/images/aztecacorazon.jpg" group-title="FULL-HD-LATINOS",Az Corazón FULL HD
-http://disfruta.club:8000/infornetsolutions/hAArBoNtwz/4211
-#EXTINF:-1 tvg-id="Az Mundo" tvg-name="Az Mundo FULL HD" tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-azmundo.png" group-title="FULL-HD-LATINOS",Az Mundo FULL HD
-http://disfruta.club:8000/infornetsolutions/hAArBoNtwz/4182
-#EXTINF:-1 tvg-id="AZTECA 13 OK" tvg-name="Azteca Trece / Uno FULL HD" tvg-logo="http://www.supervisoriptv.xyz/wp-content/uploads/2015/03/azteca13hd.png" group-title="FULL-HD-LATINOS",Azteca Trece / Uno FULL HD
-http://disfruta.club:8000/infornetsolutions/hAArBoNtwz/4122
-#EXTINF:-1 tvg-id="AZTECA 7 OK" tvg-name="Azteca 7 FULL HD" tvg-logo="http://www.chingonatv.com/wp-content/uploads/2013/11/azteca-7.png" group-title="FULL-HD-LATINOS",Azteca 7 FULL HD
-http://disfruta.club:8000/infornetsolutions/hAArBoNtwz/4210
-#EXTINF:-1 tvg-id="" tvg-name="Boomerang FULL HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6a/Boomerang_h
+
+#EXTINF:-1 tvg-id="45124" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/mega.jpg" group-title="Nacionales", MEGA HD | CL
+http://177.222.108.82:2500/play/a0ib/index.m3u8
+
+#EXTINF:-1 tvg-id="45124" tvg-logo="https://static.wixstatic.com/media/23aa87_7d18ac94943140078216c6f323ff29bd~mv2.png/v1/fill/w_720,h_720,al_c,lg_1,q_90,enc_auto/23aa87_7d18ac94943140078216c6f323ff29bd~mv2.png" group-title="Nacionales", MEGA HD | CL
+http://181.214.220.121:8080/945348216tv1/r60x58/40?token=HhtfWEVRFQ5BAgdUUg0BUVdTBwBXU1cAVgFQAlUGWVAEClZbVQgABgFDTxdAQBdSV1s5DVZADwFTThNEQ1ATbgxdFQMUCw4FVVdBGRFADFpTFFxVBVMCDVNbAQcJGUNBDF0VAxQIBgBRVEEZEVEdQ1NECAVePVFQFQtSVBIPD0QJVRsbWVdoUAYMAltXFl8VBhRKRlsRRRdZDERdXBlDUwxNRVhCXBUOQVNQBgMWSRVVWRMKRhBMF1lAcn0SGUNUHU1SV0VQWFpBW0FBQBZJFV9FORZXEUFHBgNcVEIXWxNVGxsbW1hPawAODVtWVxFeWVgVRghABhdPQFxeXlwVXhdmR1BSGw0WUVVQAAAWGA==
+
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/23aa87_b43a6eafe5844aea96e702401093f492~mv2.png/v1/fill/w_800,h_800,al_c,q_90,enc_auto/23aa87_b43a6eafe5844aea96e702401093f492~mv2.png" group-title="Nacionales", CHV HD | CL
+http://45.236.127.11:8000/play/a00c/index.m3u8
+http://mi.chv.cl/playlist/stream.m3u8?s=hd
+http://europass.site:8080/randialfre/JXFQGvfZdD/1011
+
+#EXTINF:-1 tvg-id="96814" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logotipo_de_Canal_13_%282010-2018%29.png" group-title="Nacionales", Canal 13 HD | CL
+http://45.236.127.11:8000/play/a00i/index.m3u8
+
+#EXTINF:-1 tvg-id="45126" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/Logotipo_de_Televisi%C3%B3n_Nacional_de_Chile_%282016-2020%29.png" group-title="Nacionales", TVN HD | CL
+http://45.232.176.17:8000/play/a00t
+
+https://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8?uid=MdDhzMHI3J17PScoM2fOSxcCRDnw5b0x&sid=KYzuKLmBNzzkiVOuKhzu59IVwQldHaQM&pid=xEhDbMv4CPZUu33K22jpm81cnocIBSUj&an=tvn-play-app-lg-tv&at=web-app&av=v6.0.2&ref=https%3A%2F%2Flive.tvn.cl%2F&res=933x550&without_cookies=false&listenerid=&dnt=true&access_token=JIuJu6qqu5RcsfaWkHhJ9LIcJNSoMlVSoBM3XVUwxYSu0g2BZbrUHYBUMDSw30zh4lo9KU7l1vr&adInsertionSessionId=3c2ee279-e577-48d8-a257-f6e6e7a5651b
+
+
+#EXTINF:-1 tvg-logo="https://scontent.fccp1-1.fna.fbcdn.net/v/t39.30808-6/281567912_10166524040860121_1591244030664651114_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=5f2048&_nc_ohc=11ehMxRVi7QQ7kNvgGGrFDA&_nc_ht=scontent.fccp1-1.fna&oh=00_AYBYkUem4eYuUbQ9cTV-lGn2RQy-cNiPiLt5U_by68_SoA&oe=66646F3E" group-title="Nacionales", La Red HD | CL
+https://unlimited2-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?
+
+#EXTINF:-1 tvg-id="CL | Canal 13 CABLE *HD" tvg-name="Canal 13 Cable HD | CL" tvg-logo="https://images.mi.tv/channels/cl_canal-13-c_m.png" group-title="Cultura", | Canal 13 Cable HD | CL
+http://europass.site:8080/randialfre/JXFQGvfZdD/218476
+
+#EXTINF:-1 tvg-id="45126" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/tvn3.jpg" group-title="Nacionales", TVN3 HD | CL
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8?uid=MdDhzMHI3J17PScoM2fOSxcCRDnw5b0x&sid=KYzuKLmBNzzkiVOuKhzu59IVwQldHaQM&pid=Y7EYdXCziwaRUTG4DAqDJc2aWwboL9hA&an=tvn-play-app-lg-tv&at=web-app&av=v6.0.2&ref=https%3A%2F%2Fwww.tvn.cl%2Ftvn3&res=870x519&without_cookies=false&listenerid=&dnt=true&adInsertionSessionId=7db83b63-6a39-4f4d-b13c-9fbcc085ed4a
+
+#EXTINF:-1 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/rec.jpg" group-title="Entretenimiento", 13 REC | CL
+http://wabot.win:8080/servicios29dc/tairon123/509669
+
+#EXTINF:-1 tvg-logo="https://scontent.fccp1-1.fna.fbcdn.net/v/t1.6435-9/155563168_10159779696584113_4688315465548507269_n.png?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=u6KccxtB2wcQ7kNvgGHGNwR&_nc_ht=scontent.fccp1-1.fna&oh=00_AYAWhxX8HGmFDYn_6m0oOPKZ9b0X9g2a2iSwvgLpi5SUYw&oe=66862740" group-title="Nacionales", Canal 24 Horas | CL
+https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="45146" tvg-logo="https://ideograma.cl/wp-content/uploads/2022/10/bbio-v03.jpg" group-title="Regionales", Bio Bio TV
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/.m3u8
+
+#EXTINF:-1 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/ucv3.jpg" group-title="Nacionales", UCV | CL
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-id="45166" tvg-name=" Pintana TV" tvg-logo="https://static.wixstatic.com/media/23aa87_d5ae28b36e804f659b1dbb97ac53092e~mv2.png/v1/fill/w_800,h_800,al_c,q_90,enc_auto/23aa87_d5ae28b36e804f659b1dbb97ac53092e~mv2.png",  group-title="Regionales", Pintana TV
+http://live.mundogo.cl/mundo/Pintanatv/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://scontent.fccp1-1.fna.fbcdn.net/v/t39.30808-6/444457998_466168509107304_3549984956680752185_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=tGWzpuHOq6cQ7kNvgEXEz-7&_nc_ht=scontent.fccp1-1.fna&oh=00_AYCgmK0zb-UeEG0kpWlQepCaMHHw8wuT5_xjklm2rh4L2A&oe=66648AC4" group-title="Nacionales", CNN Chile HD
+http://177.222.108.82:2500/play/a0h9/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/23aa87_7fb92d33452a4b688cae50893bf6e725~mv2.png/v1/fill/w_800,h_800,al_c,q_90,enc_auto/23aa87_7fb92d33452a4b688cae50893bf6e725~mv2.png" group-title="Cultura", 13 Cultura | CL
+https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/ntv.jpg" group-title="Nacionales", NTV HD | CL
+https://marine2.miplay.cl/ntv/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1  tvg-logo="https://fotografias.lasexta.com/clipping/cmsimages01/2022/04/19/23DC124E-BFF5-4B16-8824-DE16504D1A19/simpson-series-animadas-mas-longevas-television-nacio-casualidad_104.jpg?crop=576,576,x225,y0&width=1200&height=1200&optimize=low&format=webply" group-title="24/7", Los Simpson 24/7
+http://tv.soccerplus.link:8000/bross2023/73js8t3ge63/34308
+
+#EXTINF:-1  tvg-logo="https://images.ecestaticos.com/if37XzTUw8IRKVKIUdOaEvbdHYY=/0x0:2272x1479/1200x1200/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fed2%2Fe26%2F4ea%2Fed2e264ea1827650f92d2b6f27b8617d.jpg" group-title="24/7", Los Simpson V2 24/7
+http://europass.site:8080/randialfre/JXFQGvfZdD/37767
+
+#EXTINF:-1  tvg-logo="https://lumiere-a.akamaihd.net/v1/images/799691_disney_futurama_s11_4x5_csp_x2_jf_6329a661.png?region=0,167,2160,2160" group-title="24/7", Futurama 24/7
+http://tv.soccerplus.link:8000/bross2023/73js8t3ge63/61833
+
+#EXTINF:-1  tvg-logo="https://media.vandal.net/ivandal/12/63/1200x630/46/46336/futurama-worlds-of-tomorrow-201763012139_6.jpg" group-title="24/7", Futurama V2 24/7
+http://europass.site:8080/randialfre/JXFQGvfZdD/37835
+
+
+
+
+
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/youtubepedia/images/6/61/BobEsponga_Espa%C3%B1ol.png/revision/latest?cb=20210210163658&path-prefix=es" group-title="24/7", Bob Esponja 24/7
+http://tv.soccerplus.link:8000/bross2023/73js8t3ge63/61746
+
+#EXTINF:-1  tvg-logo="https://applications-media.feverup.com/image/upload/f_auto,w_550,h_550/fever2/plan/photo/9780beca-543e-11ed-ac20-4a2f4e17ecc2.jpg" group-title="24/7", El Chavo del 8 24/7
+http://tv.soccerplus.link:8000/bross2023/73js8t3ge63/23307
+
+#EXTINF:-1  tvg-logo="https://1.bp.blogspot.com/-YQ2SyK6S5P8/Xt7k4PlsHbI/AAAAAAAAAhM/hN4Q74lwqUMeCVx2y7jBDVDPj10gWPCRQCK4BGAsYHg/s320/doraemon.png" group-title="24/7", Doraemon 24/7
+http://europass.site:8080/randialfre/JXFQGvfZdD/37883
+
+
+
+#EXTINF:-1  tvg-logo="https://1.bp.blogspot.com/-w8hEkOgZreY/XvbNSN5gC2I/AAAAAAAACO4/8BhhVRsxfxwr7HC2QD22VG_Q2WtvPVPIwCLcBGAsYHQ/s200/Detective%2BConan.png" group-title="24/7", Detective Conan 24/7
+http://europass.site:8080/randialfre/JXFQGvfZdD/38813
+
+#EXTINF:-1  tvg-logo="https://1.bp.blogspot.com/-_M9Szn5K4_A/XurizcaahTI/AAAAAAAACME/5Kb_kOdse6MM_WHe3Ay38VCOgxwPPBOkwCLcBGAsYHQ/s200/Heidi.png" group-title="24/7", Heidi 24/7
+http://europass.site:8080/randialfre/JXFQGvfZdD/38322
+
+#EXTINF:-1  tvg-logo="https://scontent.fccp1-1.fna.fbcdn.net/v/t39.30808-6/263930923_490937922602303_7522540263382732857_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=csTB-80flw8Q7kNvgEOvOo6&_nc_ht=scontent.fccp1-1.fna&oh=00_AYC1JFnheKNqr0Mdz02Dj7um6UB_n0fa9xPgBYz4tMTgBA&oe=6668A033" group-title="24/7", Malcolm 24/7
+http://ultrapremium.cloud:8080/945348216tv1/r60x58/755
+
+#EXTINF:-1  tvg-logo="https://www.okchicas.com/wp-content/uploads/2020/08/Malcom-el-de-en-medio.jpg" group-title="24/7", Malcolm V2 24/7
+http://tv.proyectox.vip:8080/arpilorena1/EhKM8yKqAS/37750
+
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/NASA/picture?width=200&height=200" group-title="Internacional" tvg-name="NASA TV Public",NASA TV Public
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/NASA/picture?width=200&height=200" group-title="Internacional" tvg-name="NASA TV Media",NASA TV Media
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/animalplanet.jpg" group-title="Entretenimiento", Animal Planet
+http://38.56.118.88:4000/play/a02i/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL9w8rjxBqIosn8k7hA0gaXvQI1EcfGxSFEg&s" group-title="Entretenimiento", Discovery Channel
+http://38.56.118.88:4000/play/a03c/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://scontent.fccp1-1.fna.fbcdn.net/v/t39.30808-6/279553457_10158588652613314_2438564448796593436_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=5f2048&_nc_ohc=xZGz-0Tlu_cQ7kNvgH6GGwk&_nc_ht=scontent.fccp1-1.fna&oh=00_AYDci_UNmmw18698c3uMUGU_QxbwZwicsuMav6OpNBMDxw&oe=666505AE" group-title="Entretenimiento", Discovery H&H
+http://38.56.118.88:4000/play/a01n/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://scontent.fccp1-1.fna.fbcdn.net/v/t1.18169-9/15823126_1408951949116958_5497284114561567693_n.png?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=VgzVWWP9unAQ7kNvgELjS6y&_nc_ht=scontent.fccp1-1.fna&oh=00_AYDzkBUO5oekLnqdyIhy8kCTZj3YtWSZxcW31R_QBKbC3g&oe=6686A4F7" group-title="Entretenimiento", Discovery Kids
+http://168.181.122.234:8000/play/a029/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/disneychannel.jpg" group-title="Entretenimiento", Disney Channel
+http://38.56.118.88:4000/play/a00p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://scontent.fccp1-1.fna.fbcdn.net/v/t39.30808-6/443699230_760792436252150_4758616440244740761_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=6dO1Fo_GKJ8Q7kNvgFt3Iji&_nc_ht=scontent.fccp1-1.fna&oh=00_AYBddABxwhnho11Jr1qa-WyWhfhDmcJdUcbfNNOLTEyqZg&oe=666500A4" group-title="Entretenimiento", Nat Geo
+http://38.56.118.88:4000/play/a024/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://scontent.fccp1-1.fna.fbcdn.net/v/t39.30808-6/347786583_265801632621017_8021719064377522027_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=egHANl-mjDkQ7kNvgE3LQn0&_nc_ht=scontent.fccp1-1.fna&oh=00_AYBead7PhwOwbr6S45UYNshZSvrt1C5viZ1naBt0q_pOsA&oe=6664FF08" group-title="Entretenimiento", Star Channel
+http://38.56.118.88:4000/play/a036/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://scontent.fccp1-1.fna.fbcdn.net/v/t39.30808-6/272674050_1588457414886262_1533467581307775027_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=wo53G7C7dJUQ7kNvgFxZ0lI&_nc_ht=scontent.fccp1-1.fna&oh=00_AYD5sbZ_GP1valaUV2mMiN5JMkfiFrW7hcDLqeytvyaTXg&oe=6664E565" group-title="Entretenimiento", Universal
+http://38.56.118.88:4000/play/a01q/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://scontent.fccp1-1.fna.fbcdn.net/v/t39.30808-6/366737075_834731004681276_3255222892460540614_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=NAv0uPvXL4YQ7kNvgHr_y-W&_nc_ht=scontent.fccp1-1.fna&oh=00_AYDBJ-DqsF8Vi18rf6bpIf5O9j6Ouxd2YQ36HqTtnQBHdA&oe=66650DF6" group-title="Entretenimiento", Warner Channel
+http://38.56.118.88:4000/play/a007/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://scontent.fccp1-1.fna.fbcdn.net/v/t39.30808-6/347778516_967402950958270_2635764713931287172_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=QDQUHQ9sqoQQ7kNvgGtqo52&_nc_ht=scontent.fccp1-1.fna&oh=00_AYAu_7xBTB0TrBCZeoM5yRxhSIPVyucEwYumYOkMYVEOgA&oe=666510C9" group-title="Entretenimiento", Love Nature
+http://38.56.118.88:4000/play/a033/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/history.jpg" group-title="Entretenimiento", History Channel
+http://38.56.118.88:4000/play/a004/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/h2.jpg" group-title="Entretenimiento", History Channel 2
+http://38.56.118.88:4000/play/a03e/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://static.wixstatic.com/media/23aa87_d065629207194c66bb86c192df9214d0~mv2.jpg/v1/fill/w_560,h_560,al_c,lg_1,q_80,enc_auto/655f7192ce580c733dda2fd1fc4f202b-transformed.jpg" group-title="Entretenimiento", Retro Plus Tv
+https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/lasestrellas.jpg" group-title="Entretenimiento",Las Estrellas
+http://38.56.118.88:4000/play/a03a/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/tnt.jpg" group-title="Entretenimiento",TNT http://38.56.118.88:4000/play/a00r/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Entretenimiento",Space
+http://tv.proyectox.vip:8080/arpilorena1/EhKM8yKqAS/74410
+
+http://38.56.118.88:4000/play/a009/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/sony.jpg" group-title="Entretenimiento",Sony Channel http://38.56.118.88:4000/play/a006/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mDfvj3lBIIByegg9yN9bA-QLVN8nurP250cE5GBwTw6H8=s160-c-k-c0x00ffffff-no-rj" group-title="Entretenimiento",HOLA TV
+http://38.56.118.88:4000/play/a00q/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f68bb5e4ea24c50b73e6_elgourmet.jpeg" group-title="Entretenimiento",El Gourmet 
+http://38.56.118.88:4000/play/a011/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="Entretenimiento",Food Network 
+http://38.56.118.88:4000/play/a02t/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/investigation.jpg" group-title="Entretenimiento",ID
+http://38.56.118.88:4000/play/a00z/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/paramount.jpg" group-title="Entretenimiento",Paramount
+http://38.56.118.88:4000/play/a02c/index.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://scontent.fccp1-1.fna.fbcdn.net/v/t39.30808-6/306948825_455465329955263_7376037222878203612_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=m883745wu60Q7kNvgF-FIaV&_nc_ht=scontent.fccp1-1.fna&oh=00_AYASrImigLDubjwMXM7VSKKibWehTQLpPjmJ9BlGQdNHRw&oe=66654E53" group-title="Entretenimiento",Discovery World HD
+http://38.56.118.88:4000/play/a025/index.m3u
+
+#EXTINF:-1  tvg-logo="https://static.latamwbd.com/2023-02/Theater%20Discovery%20White_0.png?w=160" group-title="Entretenimiento",Discovery Theater HD
+http://38.56.118.88:4000/play/a01o/index.m3u8
