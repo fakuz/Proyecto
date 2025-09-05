@@ -7,5 +7,5 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/tracks-v3a1/mono.m3u8
 https://genexservicios.com:19360/sudoestetv/sudoestetv.m3u8
 #EXTINF:-1 tvg-id="canal9resistencia.ar" tvg-name="CANAL 9 Resistencia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Canal9logo.png" group-title="Locales", CANAL 9 Resistencia
 http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="dw.es" tvg-name="DW en Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Deutsche_Welle_logo.png" group-title="Noticias", DW en Español
+#EXTINF:-1 tvg-id="dw.es" tvg-name="DW en Espanol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Deutsche_Welle_logo.png" group-title="Noticias", DW en Espanol
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8
