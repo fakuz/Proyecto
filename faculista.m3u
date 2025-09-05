@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv-epg.org/files/epg-ar.xml,https://iptv-epg.org/files/epg-us.xml,https://iptv-epg.org/files/epg-mx.xml"
+#EXTM3U url-tvg="https://iptv-epg.org/files/epg-es.xml,https://iptv-epg.org/files/epg-ar.xml,https://iptv-epg.org/files/epg-us.xml,https://iptv-epg.org/files/epg-mx.xml"
 #EXTINF:-1 tvg-id="telefe.ar" tvg-name="TELEFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="Entretenimiento", TELEFE
 https://telefeviacom1.akamaized.net/hls/live/2037987/viacomINT/TOK/master-wild2.m3u8
 #EXTINF:-1 tvg-id="eltrece.ar" tvg-name="EL TRECE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/El_Trece_logo_2018.png" group-title="Entretenimiento", EL TRECE
