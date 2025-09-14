@@ -1,0 +1,19 @@
+﻿#EXTM3U
+
+# Variante 1: simple
+#EXTINF:-1, Canal Diario (simple)
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0079
+
+# Variante 2: con User-Agent al estilo "|User-Agent="
+#EXTINF:-1, Canal Diario (User-Agent pipe)
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0079|User-Agent=Mozilla/5.0
+
+# Variante 3: con Referer + User-Agent (pipe)
+#EXTINF:-1, Canal Diario (Referer + UA)
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0079|Referer=https://radiosargentina.com.ar/|User-Agent=Mozilla/5.0
+
+# Variante 4: con directiva VLC (EXTVLCOPT)
+#EXTINF:-1, Canal Diario (VLC UA)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://radiosargentina.com.ar/
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0079
