@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptv-epg.org/files/epg-es.xml,https://iptv-epg.org/files/epg-ar.xml,https://iptv-epg.org/files/epg-us.xml,https://iptv-epg.org/files/epg-mx.xml"
 #EXTINF:-1 tvg-id="telefe.ar" tvg-name="TELEFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="Entretenimiento", TELEFE
-https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
+https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 #EXTINF:-1 tvg-id="eltrece.ar" tvg-name="EL TRECE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/El_Trece_logo_2018.png" group-title="Entretenimiento", EL TRECE
 https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-id="stc.mx" tvg-name="STC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Placeholder_image_logo.png" group-title="Locales", STC
